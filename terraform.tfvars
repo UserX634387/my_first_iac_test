@@ -1,0 +1,7 @@
+tfe_hostname  = "app.terraform.io"
+tfe_token     = "zD6AbSN7gyzyAA.atlasv1.6CnYfT2AwYrAmqdoa16E3iJyOpkxoVo2itrAc7AQjTeVAYP4hB4HYZeVPUvCykvdxOc"
+org_name      = "first-orgtest"
+tfe_org_email = "jonathan.jimenez@servexternos.gruposantander.com"
+ghe_token     = "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"
+ghe_api_url   = "https://api.github.com"
+ghe_http_url  = "https://github.com"
